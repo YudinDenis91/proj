@@ -5,6 +5,7 @@ public class Mainapplication {
         System.out.println("Hello Russia!");
         System.out.println("123456789");
         System.out.println("-----");
+        System.out.println("1234----789");
 
         System.out.println("234567");
         System.out.println("345678");
